@@ -1,0 +1,13 @@
+Hola profesor. ¿Como esta?
+
+Soy Carlos Lanz, CI: 29.512.826 y aca le paso una pequeña guia para probar el ejercicio 1 de IABR.
+
+
+1 -- Para probar el ejercicio 1 debe de utilizar el siguiente comando en la terminal: php artisan serve
+
+2 -- Utilize la URL: http://localhost:8000/trianguloPascal/ + (El numero que quiere calcular). Por ejemplo:
+
+	URL: http://localhost:8000/trianguloPascal/7
+	Resultado: [[1],[1,1],[1,2,1],[1,3,3,1],[1,4,6,4,1],[1,5,10,10,5,1],[1,6,15,20,15,6,1]]
+
+Saludos
